@@ -1,0 +1,25 @@
+.body {
+  font-family: sans-serif;
+}
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
+.section {
+  padding: 24px 0;
+  border-bottom: 1px solid white;
+}
+.button {
+  padding: 16px 32px;
+  font-size: 24px;
+  font-weight: 700;
+
+  border: 2px solid white;
+  border-radius: 30px;
+  text-transform: uppercase;
+}
+.buttongradient {
+  border: 0;
+
+  background: linear-gradient(to bottom, blue, white);
+}
